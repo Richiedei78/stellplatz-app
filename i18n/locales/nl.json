@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "main": "Hoofdnavigatie",
+    "menu": "Menu",
+    "more": "Meer",
+    "dashboard": "Overzicht",
+    "occupancy": "Bezetting",
+    "bookings": "Boekingen",
+    "guests": "Gasten",
+    "pitches": "Staanplaatsen",
+    "settings": "Instellingen"
+  },
+  "header": {
+    "language": "Taal kiezen",
+    "colorMode": "Licht/donker wisselen",
+    "userMenu": "Gebruikersmenu"
+  },
+  "common": {
+    "comingSoon": "Binnenkort beschikbaar",
+    "comingSoonHint": "Aan dit onderdeel wordt nog gewerkt. Het is binnenkort beschikbaar."
+  }
+}

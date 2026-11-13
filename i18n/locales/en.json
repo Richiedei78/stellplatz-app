@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "main": "Main navigation",
+    "menu": "Menu",
+    "more": "More",
+    "dashboard": "Dashboard",
+    "occupancy": "Occupancy",
+    "bookings": "Bookings",
+    "guests": "Guests",
+    "pitches": "Pitches",
+    "settings": "Settings"
+  },
+  "header": {
+    "language": "Choose language",
+    "colorMode": "Toggle light/dark mode",
+    "userMenu": "User menu"
+  },
+  "common": {
+    "comingSoon": "Coming soon",
+    "comingSoonHint": "This section is under construction and will be available soon."
+  }
+}

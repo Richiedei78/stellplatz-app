@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "main": "Navegación principal",
+    "menu": "Menú",
+    "more": "Más",
+    "dashboard": "Resumen",
+    "occupancy": "Ocupación",
+    "bookings": "Reservas",
+    "guests": "Huéspedes",
+    "pitches": "Parcelas",
+    "settings": "Ajustes"
+  },
+  "header": {
+    "language": "Elegir idioma",
+    "colorMode": "Cambiar modo claro/oscuro",
+    "userMenu": "Menú de usuario"
+  },
+  "common": {
+    "comingSoon": "Próximamente",
+    "comingSoonHint": "Esta sección está en construcción y estará disponible pronto."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "main": "Hauptnavigation",
+    "menu": "Menü",
+    "more": "Mehr",
+    "dashboard": "Übersicht",
+    "occupancy": "Belegung",
+    "bookings": "Buchungen",
+    "guests": "Gäste",
+    "pitches": "Stellplätze",
+    "settings": "Einstellungen"
+  },
+  "header": {
+    "language": "Sprache wählen",
+    "colorMode": "Hell/Dunkel umschalten",
+    "userMenu": "Benutzermenü"
+  },
+  "common": {
+    "comingSoon": "Kommt bald",
+    "comingSoonHint": "Dieser Bereich wird gerade gebaut und ist bald verfügbar."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "main": "Hovednavigation",
+    "menu": "Menu",
+    "more": "Mere",
+    "dashboard": "Oversigt",
+    "occupancy": "Belægning",
+    "bookings": "Bookinger",
+    "guests": "Gæster",
+    "pitches": "Pladser",
+    "settings": "Indstillinger"
+  },
+  "header": {
+    "language": "Vælg sprog",
+    "colorMode": "Skift lys/mørk tilstand",
+    "userMenu": "Brugermenu"
+  },
+  "common": {
+    "comingSoon": "Kommer snart",
+    "comingSoonHint": "Dette område er under opbygning og vil snart være tilgængeligt."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "main": "Navigazione principale",
+    "menu": "Menu",
+    "more": "Altro",
+    "dashboard": "Panoramica",
+    "occupancy": "Occupazione",
+    "bookings": "Prenotazioni",
+    "guests": "Ospiti",
+    "pitches": "Piazzole",
+    "settings": "Impostazioni"
+  },
+  "header": {
+    "language": "Scegli la lingua",
+    "colorMode": "Cambia modalità chiara/scura",
+    "userMenu": "Menu utente"
+  },
+  "common": {
+    "comingSoon": "Prossimamente",
+    "comingSoonHint": "Questa sezione è in costruzione e sarà presto disponibile."
+  }
+}

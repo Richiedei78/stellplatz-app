@@ -1,0 +1,27 @@
+# Nuxt
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+dev-dist
+
+# Abhängigkeiten
+node_modules
+
+# Logs
+logs
+*.log
+
+# Sonstiges
+.DS_Store
+Thumbs.db
+.fleet
+.idea
+coverage
+
+# Umgebungsvariablen / Geheimnisse – NIE committen
+.env
+.env.*
+!.env.example
